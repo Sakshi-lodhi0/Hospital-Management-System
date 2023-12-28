@@ -40,7 +40,7 @@ and can also generate the bill for patient when patient wish to discharge.
 ***
 #### http://127.0.0.1:5000/pharmacist/patient_info
 ![Image of Colx-website-sell](https://github.com/Acroprograming/Hospital-Management-System/blob/master/Screenshots/pharmacist_view.png)
-
+### sys
 ***
 #### http://127.0.0.1:5000/delete_patient
 ![Image of Colx-website-sell](https://github.com/Acroprograming/Hospital-Management-System/blob/master/Screenshots/delete_patient.png)
